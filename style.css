@@ -1,0 +1,25 @@
+.jumbotron{
+    padding-top: 5rem;
+}
+
+#about .row, p.lead fs-6{
+    text-align: justify;
+}
+
+#navbar nav{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 9999;
+}
+
+footer{
+    background-color: black;
+    padding-bottom: 1px;
+    padding-top: 8px; 
+}
+
+#about, #gallery, #wish{
+    padding-top: 5rem;
+}
